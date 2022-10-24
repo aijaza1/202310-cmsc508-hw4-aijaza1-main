@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "cmsc508.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "CMSC508 Server",
+            "database": "202310_users_aijaza",
+            "username": "aijaza",
+            "password": "Shout4_aijaza_GOME"
+        }
+    ]
+}
