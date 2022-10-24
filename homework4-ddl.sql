@@ -76,9 +76,6 @@ insert into people (people_id, people_lastname)
 
 select * from people;
 
-
-
-
 # Section 6
 # Create peopleskills( id, skills_id, people_id, date_acquired )
 # None of the fields can ba NULL. ID can be auto_increment.
